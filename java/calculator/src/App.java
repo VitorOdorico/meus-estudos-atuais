@@ -22,10 +22,8 @@ public class App {
 
         // transforma a string em objeto do tipo int
         Integer valueOneNumber = Integer.valueOf(valueOne);
-
+        
         System.out.println("O seu primeiro valor é" + valueOneNumber);
-        
-        
         
         
     }
